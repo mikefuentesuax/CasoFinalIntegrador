@@ -1,0 +1,3 @@
+C:/Users/aads7/Documents/GitHub/CasoFinalIntegrador/cmake-build-debug/CMakeFiles/CasoFinalIntegrador.dir
+C:/Users/aads7/Documents/GitHub/CasoFinalIntegrador/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aads7/Documents/GitHub/CasoFinalIntegrador/cmake-build-debug/CMakeFiles/rebuild_cache.dir
